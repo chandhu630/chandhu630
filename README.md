@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandrakala</h1>
-<h3 align="center">Inspire As a Full Stock Web developer</h3>
+<h3 align="center">Inspire As a Full Stack Web developer</h3>
 
 - 🔭 I’m currently working on Own project **Rakhthanidhi.com**
 

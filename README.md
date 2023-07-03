@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:<img src="https://media.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.gif" margin-top ="10px" height="60px" width="70px" alt=""/>
 </h3>
 <p align="left">
-	<div>connect with myEmail<a href="chandhu6302886523@gmail.com" >chandhu6302886523@gmail.com</a></div>
+	<div><b>✉️</b>E-mail:<a href="chandhu6302886523@gmail.com" >chandhu6302886523@gmail.com</a></div>
 <a href="https://linkedin.com/in/chandra kala m" class="border" target="blank"> 
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandra kala m" height="30"  width="40" /></a>
 <!-- <a href="https://www.hackerrank.com/chandra kala m" class ="hacker" target="blank">

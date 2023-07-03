@@ -1,4 +1,4 @@
-<style>
+<!--<style>
 	.border
 	{
 		border:4px solid skyblue;
@@ -31,7 +31,7 @@
 		background-color:black;
 	}	
 		
-</style>
+</style>-->
 <h1 align="center">Hi 👋, I'm Chandrakala</h1>
 <h3 align="center">Inspire As a Full Stock Web developer</h3>
 

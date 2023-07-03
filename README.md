@@ -1,37 +1,6 @@
-<!--<style>
-	.border
-	{
-		border:4px solid skyblue;
-		width:50px;
-		height:50px;
-		text-decoration:none;
-		color:white;
-		background-color: skyblue;
-	}
-	.hacker
-	{
-		border:4px solid green;
-		background-color:green;
-		width:40px;
-		height:50px;
-		text-decoration:none;
-		color:white;
-	}
-	.img
-	{
-		width:300px;
-		height:200px;
-	}
-	.hacker:hover
-	{
-		background-color:black;
-	}
-	.border:hover
-	{
-		background-color:black;
-	}	
-		
-</style>-->
+
+	
+	
 <h1 align="center">Hi 👋, I'm Chandrakala</h1>
 <h3 align="center">Inspire As a Full Stock Web developer</h3>
 

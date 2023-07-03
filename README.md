@@ -11,6 +11,7 @@
 - 💬 Ask me about **I am Chandrakala Aspire as a full Stock Web Developer**
 
 <h3 align="left">Connect with me:</h3>
+<img src="https://media.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.gif" alt=""/>
 <p align="left">
 <a href="https://linkedin.com/in/chandra kala m" class="border" target="blank"> 
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandra kala m" height="30"  width="40" /></a>

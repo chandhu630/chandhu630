@@ -2,7 +2,7 @@
 	
 	
 <h1 align="center">Hi 👋 I'm Chandrakala</h1>
-<h3 ><b></b>🪄<b>Inspire As a Full Stock Web developer</b></h3>
+<h3  align="center"><b></b>🪄<b>Inspire As a Full Stock Web developer</b></h3>
 <img src="https://thepolitesolution.com/images/g3.gif" alt=""/>
 <div> 👩‍💻 I’m currently working on Own project<b> Rakhthanidhi.com</b></div>
 <div>🎓 I’m currently learning <b>Full Stack web Development</b></div>
@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:<img src="https://media.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.gif" margin-top ="10px" height="60px" width="70px" alt=""/>
 </h3>
 <p align="left">
+	<div>connect with myEmail:chandhu6302886523@gmail.com</div>
 <a href="https://linkedin.com/in/chandra kala m" class="border" target="blank"> 
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandra kala m" height="30"  width="40" /></a>
 <!-- <a href="https://www.hackerrank.com/chandra kala m" class ="hacker" target="blank">

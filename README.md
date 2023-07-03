@@ -1,7 +1,7 @@
 
 	
 	
-<h1 align="center">Hi <img src ="https://tenor.com/search/waving-hand-gif-gifs" alt=""/>, I'm Chandrakala</h1>
+<h1 align="center">Hi 👋 I'm Chandrakala</h1>
 <h3 align="center"><b>🪄</b>Inspire As a Full Stock Web developer</h3>
 
 - 👩‍💻 I’m currently working on Own project **Rakhthanidhi.com**

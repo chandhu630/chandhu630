@@ -4,8 +4,8 @@
 <h1 align="center">Hi 👋 I'm Chandrakala</h1>
 <h3 ><b></b>🪄<b>Inspire As a Full Stock Web developer</b></h3>
 <img src="https://thepolitesolution.com/images/g3.gif" alt=""/>
-<p> 👩‍💻 I’m currently working on Own project<b> Rakhthanidhi.com</b></p>
-<p>🎓 I’m currently learning <b>Full Stack web Development</b></p>
+<div> 👩‍💻 I’m currently working on Own project<b> Rakhthanidhi.com</b></div>
+<div>🎓 I’m currently learning <b>Full Stack web Development</b></div>
 <!--- 💬 Ask me about **I am Chandrakala Aspire as a full Stack Web Developer**-->
 <h3 align="left">Connect with me:<img src="https://media.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.gif" margin-top ="10px" height="60px" width="70px" alt=""/>
 </h3>

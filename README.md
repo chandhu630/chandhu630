@@ -2,7 +2,7 @@
 	
 	
 <h1 align="center">Hi 👋 I'm Chandrakala</h1>
-<h3 align="center"><b>🪄</b>Inspire As a Full Stock Web developer</h3>
+<h3 ><b>🪄</b>Inspire As a Full Stock Web developer</h3>
 <p> 👩‍💻 I’m currently working on Own project Rakhthanidhi.com</p>
 <p>🎓 I’m currently learning Full Stock web Development</p>
 <!--- 💬 Ask me about **I am Chandrakala Aspire as a full Stack Web Developer**-->

@@ -7,7 +7,7 @@
 <div> 👩‍💻 I’m currently working on Own project<b> Rakhthanidhi.com</b></div>
 <div>🎓 I’m currently learning <b>Full Stack web Development</b></div>
 <!--- 💬 Ask me about **I am Chandrakala Aspire as a full Stack Web Developer**-->
-<div align="left">Connect with me:<img src="https://media.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.gif" margin-top ="10px" height="60px" width="70px" alt=""/>
+<div align="left"><b>Connect with me:</b><img src="https://media.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.gif" margin-top ="10px" height="60px" width="70px" alt=""/>
 </div>
 <p align="left">
 	<div><b>✉️</b>E-mail:<a href="chandhu6302886523@gmail.com" >chandhu6302886523@gmail.com</a></div>

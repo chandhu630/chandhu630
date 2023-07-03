@@ -3,6 +3,7 @@
 	
 <h1 align="center">Hi 👋 I'm Chandrakala</h1>
 <h3 ><b></b>🪄<b>Inspire As a Full Stock Web developer</b></h3>
+<img src="https://thepolitesolution.com/images/g3.gif" alt=""/>
 <p> 👩‍💻 I’m currently working on Own project<b> Rakhthanidhi.com</b></p>
 <p>🎓 I’m currently learning <b>Full Stack web Development</b></p>
 <!--- 💬 Ask me about **I am Chandrakala Aspire as a full Stack Web Developer**-->
